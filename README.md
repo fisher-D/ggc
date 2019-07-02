@@ -1,3 +1,3 @@
 # ggc
 logo of ggc
-contract address : TSWF9aCjK9yUZBLrYfLQCLBWbvgUkCWGY4
+contract address : TB95FFYRJMLY6mWZqv4JUMqAqsHF4JCXga
